@@ -1,0 +1,6 @@
+{
+  "name": "Kuching Aircond Pro - Professional Air Conditioning Services",
+  "description": "Kuching's leading air conditioning specialist since 2018. Certified technicians, upfront RM pricing, chemical overhaul, and fast-response repair across Kuching, Samarahan & surrounding areas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
